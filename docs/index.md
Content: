@@ -1,2 +1,28 @@
-docs/index.md
-Content:
+# Data Portfolio
+
+Welcome to my portfolio repository.
+
+## Overview
+This project showcases my work in:
+- Python analytics
+- SQL analysis
+- Accounting and financial reporting
+- Data storytelling and dashboarding
+
+## Included folders
+- notebooks/ — Jupyter notebooks and analysis workflow
+- sql/ — SQL scripts and reusable queries
+- data/ — sample and cleaned datasets
+- reports/ — writeups and result summaries
+- dashboards/ — chart and dashboard outputs
+
+## Skills
+- Python
+- SQL
+- Excel
+- Financial analysis
+- Business reporting
+- Data visualization
+
+## Contact
+GitHub: https://github.com/gvananthkumar
